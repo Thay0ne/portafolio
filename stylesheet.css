@@ -1,0 +1,38 @@
+.introduction {
+    text-align: center;
+    background-color: 504658;
+    color: #504658;
+    margin: 10px 20px 20px 10px;
+    border-radius: 5px;
+    border: blanchedalmond;
+    padding: 5px 5px 5px 5px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Indie Flower', cursive;
+}
+.contact {
+    text-align: center;
+}
+#top {
+    font-size: 55px;
+}
+.perfil {
+    width: 150px;
+	height: 190px;
+    border-radius: 50%;
+
+}
+.contact {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
+.enlinea {
+    display: inline-block;
+    margin: 10px 20px 20px 10px;
+    font-size: 20px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Indie Flower', cursive;
+}
+
